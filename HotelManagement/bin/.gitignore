@@ -1,4 +1,10 @@
-/Bookedstat.class
-/Booking.class
-/Customer.class
-/Main.class
+/hotel/
+/Regestration.class
+/Registration.class
+/customerPackage/
+/registration/
+/book/
+/emailupdation/
+/checkstatus/
+/allbook/
+/allcustomers/
